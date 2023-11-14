@@ -1,17 +1,16 @@
-p{
-    font: size 22px;
+body {
+    background: #cccccc
+}   
+
+p {
     text-align: center;
-}
+} 
 
-h1{
-    text-align: center;
-    color: rgb(255, 0, 0);
+em  strong {
+     color: red;
 }
+    
 
-body{
-    background-color: rgb(173, 173, 173);
-}
 
-strong{
-    color:rgb(255, 0, 0);
-}
+
+
